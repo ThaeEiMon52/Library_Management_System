@@ -1,0 +1,146 @@
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.APP.exe.config
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.APP.exe
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.APP.pdb
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.exe
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.pdb
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Services.dll
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.DAO.dll
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Services.pdb
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.DAO.pdb
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Book.UCRentBook.resources
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Entities.dll
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Entities.pdb
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Login.resources
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.APP.exe.config
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.APP.exe
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.APP.pdb
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Entities.dll
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Services.dll
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.DAO.dll
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Entities.pdb
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Services.pdb
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.DAO.pdb
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Login.resources
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Book.UCRentBook.resources
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.exe
+C:\Users\Lenovo\Downloads\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.pdb
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.APP.exe
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.DAO.dll
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Entities.dll
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Services.dll
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\EPPlus.dll
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.DAO.pdb
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Entities.pdb
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Services.pdb
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Services.dll.config
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\EPPlus.xml
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Book.UCBookList.resources
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.FrmMenu.FormMenu.resources
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.LoginForm.Login.resources
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Staff.AddStaff.resources
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Staffs.StaffUProfile.resources
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Staff.ViewStaff.resources
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Book.UCBook.resources
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.User.UCUsers.resources
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.User.UserList.resources
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Book.UCRentalHistory.resources
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Book.UCRentBook.resources
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Book.UCReturnBook.resources
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.exe
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.pdb
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.APP.exe.config
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.APP.pdb
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.CopyComplete
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.AssemblyReference.cache
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.SuggestedBindingRedirects.cache
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Properties.Resources.resources
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Book.UCBookList.resources
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.FrmMenu.FormMenu.resources
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.LoginForm.Login.resources
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Staff.AddStaff.resources
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Staffs.StaffUProfile.resources
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Staff.ViewStaff.resources
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Book.UCBook.resources
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.User.UCUsers.resources
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.User.UserList.resources
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Book.UCRentalHistory.resources
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Book.UCRentBook.resources
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Book.UCReturnBook.resources
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.GenerateResource.cache
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.CoreCompileInputs.cache
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.exe
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.pdb
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.APP.exe.config
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.APP.exe
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.APP.pdb
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\EPPlus.dll
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\EPPlus.Interfaces.dll
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\EPPlus.System.Drawing.dll
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.DAO.dll
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Entities.dll
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Services.dll
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.DAO.pdb
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Entities.pdb
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Services.pdb
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Services.dll.config
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\EPPlus.xml
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.CopyComplete
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.APP.exe
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\EPPlus.dll
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\EPPlus.Interfaces.dll
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\EPPlus.System.Drawing.dll
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.DAO.dll
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Entities.dll
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Services.dll
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.DAO.pdb
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Entities.pdb
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Services.pdb
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.Services.dll.config
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\EPPlus.xml
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.AssemblyReference.cache
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.SuggestedBindingRedirects.cache
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Properties.Resources.resources
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Book.UCBookList.resources
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.FrmMenu.FormMenu.resources
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.LoginForm.Login.resources
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Staff.AddStaff.resources
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Staffs.StaffUProfile.resources
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Staff.ViewStaff.resources
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Book.UCBook.resources
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.User.UCUsers.resources
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.User.UserList.resources
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Book.UCRentalHistory.resources
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Book.UCRentBook.resources
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.Views.Book.UCReturnBook.resources
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.GenerateResource.cache
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.CoreCompileInputs.cache
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.exe
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.pdb
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.APP.exe.config
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\bin\Debug\LMS.APP.pdb
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.APP\obj\Debug\LMS.APP.csproj.CopyComplete
