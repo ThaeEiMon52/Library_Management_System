@@ -1,0 +1,53 @@
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Services.dll
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Services.pdb
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.DAO.dll
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.DAO.pdb
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.dll
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.pdb
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Entities.dll
+C:\Users\LENOVO\Desktop\C# Project\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Entities.pdb
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Services.dll.config
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Services.dll
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Services.pdb
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.DAO.dll
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Entities.dll
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.DAO.pdb
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Entities.pdb
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.dll
+C:\Users\LENOVO\Downloads\Library_Management_System\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.pdb
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Services.dll.config
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Services.dll
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Services.pdb
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.DAO.dll
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Entities.dll
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.DAO.pdb
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Entities.pdb
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.csproj.AssemblyReference.cache
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.Properties.Resources.resources
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.csproj.GenerateResource.cache
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.csproj.CoreCompileInputs.cache
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.csproj.CopyComplete
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.dll
+F:\BIB\OJTC#\Group Project\c\copy05\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.pdb
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Services.dll.config
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Services.dll
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Services.pdb
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.DAO.dll
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Entities.dll
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.DAO.pdb
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.Services\bin\Debug\LMS.Entities.pdb
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.csproj.AssemblyReference.cache
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.Properties.Resources.resources
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.csproj.GenerateResource.cache
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.csproj.CoreCompileInputs.cache
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.csproj.CopyComplete
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.dll
+F:\BIB\OJTC#\Group Project\paingzinmin\Library_Management_System\Library_Management_System\LMS.Services\obj\Debug\LMS.Services.pdb
